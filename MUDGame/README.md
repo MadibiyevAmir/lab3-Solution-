@@ -1,5 +1,6 @@
 MUD Game: Builder & Prototype Patterns
-Описание проекта
+Описание проекта 
+
 Этот проект демонстрирует использование шаблонов проектирования Builder и Prototype в контексте MUD-игры (Multi-User Dungeon).
 
 Builder используется для пошагового создания сложных объектов, таких как Dungeon.
